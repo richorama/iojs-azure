@@ -1,1 +1,5 @@
-Project to run node 11.13 in Azure Websites, with a "Hello World" example using koa.
+Project to run io.js in Azure Websites.
+
+## License
+
+MIT
